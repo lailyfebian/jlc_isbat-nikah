@@ -2128,6 +2128,7 @@ button,
 /* MOBILE */
 @media (max-width: 767px) {
     .konsultasi-perceraian-section {
+        margin-top: -50px;
         padding: 50px 0;
     }
 
@@ -3542,12 +3543,16 @@ button,
         padding: 70px 0;
     }
 
+    .team-section-2 .container{
+        margin-top: -20px;
+    }
+
     .team-section-2-heading p {
         font-size: 13px !important;
     }
 
     .team-section-2-subtitle {
-        font-size: 13px;
+        font-size: 11px;
         letter-spacing: 2px;
     }
 
@@ -5177,7 +5182,7 @@ button,
 @media (max-width: 767px) {
 
     .jlc-services-section {
-        margin-top: -50px;
+        margin-top: -70px;
         padding: 48px 14px;
     }
 
@@ -6900,7 +6905,6 @@ button,
 
     .alasan-jlc-section {
         padding: 20px 0;
-        margin-top: -50px;
     }
 
     .alasan-jlc-container {
@@ -7146,7 +7150,7 @@ button,
 
 @media (max-width: 767px) {
     .faq-jlc {
-        padding: 60px 0;
+        padding: 30px 0;
     }
 
     .faq-jlc .container {
@@ -9310,7 +9314,8 @@ button,
 /* MOBILE */
 @media (max-width: 767px) {
     .mengapa-isbat-section {
-        padding: 55px 0;
+        margin-top: -170px;
+        padding: 35px 0;
     }
 
     .mengapa-isbat-wrapper {
@@ -9523,7 +9528,7 @@ button,
 /* Mobile */
 @media (max-width: 767px) {
     .pengacara-perempuan-isbat-section {
-        padding: 55px 0;
+        padding: 25px 0;
     }
 
     .pengacara-perempuan-isbat-header {
@@ -9607,7 +9612,7 @@ button,
 ================================ */
 
 .isbat-timeline-section {
-    padding: 90px 0;
+    padding: 50px 0;
     background: #ffffff;
     overflow: hidden;
 }
@@ -9854,7 +9859,7 @@ button,
 
 @media (max-width: 767px) {
     .isbat-timeline-section {
-        padding: 60px 0;
+        padding: 30px 0;
     }
 
     .isbat-timeline-intro {
